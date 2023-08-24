@@ -1637,18 +1637,18 @@ pre code {
 .table-info,
 .table-info > th,
 .table-info > td {
-  background-color: #bee5eb;
+  background-color: #ebbebe;
 }
 
 .table-info th,
 .table-info td,
 .table-info thead th,
 .table-info tbody + tbody {
-  border-color: #86cfda;
+  border-color: #da8686;
 }
 
 .table-hover .table-info:hover {
-  background-color: #abdde5;
+  background-color: #e5abab;
 }
 
 .table-hover .table-info:hover > td,

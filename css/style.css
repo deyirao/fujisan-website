@@ -424,14 +424,11 @@ a:focus {
 }
 
 .slider_section .img-box.b-1 {
-  margin-left: 20%;
+  margin-left: 4%;
 }
 
 .slider_section .img-box.b-4 {
-  margin-left: 5%;
-  margin-right: -10%;
-  -webkit-transform: translateY(15px);
-          transform: translateY(15px);
+  width: fit-content;
 }
 
 .slider_section .img-box img {
